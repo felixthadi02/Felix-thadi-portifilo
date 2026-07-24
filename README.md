@@ -1,6 +1,12 @@
 # Felix Thadi - Digital Marketing Portfolio
 
-Reference-faithful React portfolio customized with Felix Thadi's resume content and supplied header photography.
+Portfolio website for [Felix Thadi](https://felix-thadi-portifilo.vercel.app/) — a Digital Marketing Expert and Digital Marketing Specialist in Hyderabad, India.
+
+Felix works across SEO, Google Ads, Meta Ads, social media marketing, lead generation, analytics, app monetization, AdMob, AppLovin, content strategy, and performance marketing.
+
+Live website: https://felix-thadi-portifilo.vercel.app/
+
+LinkedIn: https://www.linkedin.com/in/thadifelix/
 
 ## Run locally
 
