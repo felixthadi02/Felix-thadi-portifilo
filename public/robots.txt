@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://felix-thadi-portifilo.vercel.app/sitemap.xml

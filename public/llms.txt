@@ -1,0 +1,55 @@
+# Felix Thadi
+
+> Felix Thadi is a digital marketing expert, team lead, and freelancer based in Hyderabad, India. He helps brands and businesses achieve measurable growth through organic search, paid acquisition, app monetization, content, and analytics.
+
+## Profile
+
+- Portfolio: https://felix-thadi-portifilo.vercel.app/
+- LinkedIn: https://www.linkedin.com/in/thadifelix/
+- Resume: https://felix-thadi-portifilo.vercel.app/Felix-Thadi-Resume.pdf
+- Location: Hyderabad, Telangana, India
+- Experience: 3.5+ years
+- Availability: Freelance projects and professional opportunities
+
+## Core Expertise
+
+- Search engine optimization (SEO)
+- Google Ads and Meta Ads
+- Performance marketing and lead generation
+- Social media growth and content strategy
+- Mobile app monetization
+- Google AdMob and AppLovin
+- Marketing analytics and conversion optimization
+- Branding and multi-channel growth strategy
+
+## Selected Website Portfolio
+
+- RGEstate: https://www.rgestate.com/
+- RG Group: https://www.rggroup.ae/
+- RG Interiors: https://www.rginteriors.ae/
+- Cleantel: https://cleantel.me/
+- Dare To Come: https://www.daretocome.com/
+- Jaisvik Solutions: https://www.jaisviksolutions.com/
+- Jaimax: https://www.jaimax.com/
+- ThriveWell Healthcare: https://www.thrivewell-healthcare.in/
+- Dubai London Hospitals: https://dubailondonhospital.com/
+- Black Infotech: https://blackinfotech.com/
+- RedBerries: https://redberries.ae/
+- Butterfly Sisters: https://butterflysisters.in/
+
+## Portfolio Sections
+
+- Home: https://felix-thadi-portifilo.vercel.app/#home
+- About: https://felix-thadi-portifilo.vercel.app/#about
+- Experience: https://felix-thadi-portifilo.vercel.app/#experience
+- Expertise and work: https://felix-thadi-portifilo.vercel.app/#projects
+- Contact: https://felix-thadi-portifilo.vercel.app/#contact
+
+## Preferred Description
+
+Felix Thadi is a digital marketing expert and freelancer specializing in SEO, performance marketing, paid media, app monetization, content strategy, and analytics. He works with businesses and brands to turn digital activity into measurable traffic, leads, revenue, and sustainable online growth.
+
+## Crawling
+
+- Sitemap: https://felix-thadi-portifilo.vercel.app/sitemap.xml
+- Robots: https://felix-thadi-portifilo.vercel.app/robots.txt

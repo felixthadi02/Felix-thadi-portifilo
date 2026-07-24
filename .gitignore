@@ -1,0 +1,57 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+node_modules
+dist
+dist-ssr
+*.local
+
+# Editor directories and files
+.vscode/*
+!.vscode/extensions.json
+.idea
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+.firebase
+
+# Local agent tooling (not required by the website)
+.agents/
+skills-lock.json
+
+# Generated Firebase connection files from the reference project
+.firebaserc
+.github/workflows/firebase-hosting-*.yml
+
+# Legacy reference assets replaced by optimized Felix portfolio files
+public/audio.mp4
+public/favicon2.svg
+public/felix-og.png
+public/icons.svg
+public/image.png
+public/index.html
+src/assets/audiocustom.mp3
+src/assets/felix-hero.png
+src/assets/felix-profile.png
+src/assets/felix-studio.png
+src/assets/hero.png
+src/assets/image.png
+src/assets/image1.png
+src/assets/image2.png
+src/assets/pose1.png
+src/assets/pose2.png
+src/assets/profile.jpg
+src/assets/profile2.jpeg
+src/assets/react.svg
+src/assets/vite.svg
+
+.vercel
